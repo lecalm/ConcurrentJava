@@ -16,6 +16,7 @@ public class ProdConsumer_TraditionDemo {
         new Thread(() -> {
             for (int i = 1; i <=5 ; i++) {
                 try{
+
                     shareData.increment();
                 }catch (Exception e){
                     e.printStackTrace();

@@ -32,6 +32,7 @@ class ShareResourse{
             else{
                 System.out.println(Thread.currentThread().getName()+"\t 插入队列" + data + "失败");
             }
+            //通过时间的控制使得生产者线程生产之后，消费线程等待时间不到2秒的时间内消费，这样保证了生产者消费者轮流消费
             TimeUnit.SECONDS.sleep(1);
         }
         System.out.println(Thread.currentThread().getName()+"\t 大老板叫停了，表示FLAG=false,生产动作结束");

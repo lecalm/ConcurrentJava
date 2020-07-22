@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/NIO/NIO.iml" filepath="$PROJECT_DIR$/NIO/NIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Semaphore/Semaphore.iml" filepath="$PROJECT_DIR$/Semaphore/Semaphore.iml" />
       <module fileurl="file://$PROJECT_DIR$/bishi/bishi.iml" filepath="$PROJECT_DIR$/bishi/bishi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deadLock/deadLock.iml" filepath="$PROJECT_DIR$/deadLock/deadLock.iml" />
       <module fileurl="file://$PROJECT_DIR$/duxiesuo/duxiesuo.iml" filepath="$PROJECT_DIR$/duxiesuo/duxiesuo.iml" />
     </modules>
   </component>
