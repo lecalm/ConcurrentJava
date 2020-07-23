@@ -3,14 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" filepath="$PROJECT_DIR$/BlockingQueue/BlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Callable/Callable.iml" filepath="$PROJECT_DIR$/Callable/Callable.iml" />
       <module fileurl="file://$PROJECT_DIR$/CountDownLatch/CountDownLatch.iml" filepath="$PROJECT_DIR$/CountDownLatch/CountDownLatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/CyclicBarrier/CyclicBarrier.iml" filepath="$PROJECT_DIR$/CyclicBarrier/CyclicBarrier.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lock/Lock.iml" filepath="$PROJECT_DIR$/Lock/Lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/NIO/NIO.iml" filepath="$PROJECT_DIR$/NIO/NIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Semaphore/Semaphore.iml" filepath="$PROJECT_DIR$/Semaphore/Semaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
       <module fileurl="file://$PROJECT_DIR$/bishi/bishi.iml" filepath="$PROJECT_DIR$/bishi/bishi.iml" />
       <module fileurl="file://$PROJECT_DIR$/deadLock/deadLock.iml" filepath="$PROJECT_DIR$/deadLock/deadLock.iml" />
       <module fileurl="file://$PROJECT_DIR$/duxiesuo/duxiesuo.iml" filepath="$PROJECT_DIR$/duxiesuo/duxiesuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichu/jichu.iml" filepath="$PROJECT_DIR$/jichu/jichu.iml" />
     </modules>
   </component>
 </project>
